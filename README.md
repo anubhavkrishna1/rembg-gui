@@ -63,6 +63,7 @@
 2. Use the "Select Image" button to load an image.
 
 3. Choose a model from the "Select Model" dropdown.
+   > **Note:** On first run, the selected model will be downloaded, which may take some time depending on your internet connection. Subsequent runs will use the cached model.
 
 4. Click "Remove Background" to process the image.
 
